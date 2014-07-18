@@ -1,0 +1,16 @@
+PODS:
+  - AFNetworking (1.3.4)
+  - CDEvents (1.2.2)
+  - DZWebDAVClient (1.0.1):
+    - AFNetworking (~> 1.0)
+
+DEPENDENCIES:
+  - CDEvents (~> 1.2)
+  - DZWebDAVClient (~> 1.0)
+
+SPEC CHECKSUMS:
+  AFNetworking: 80c4e0652b08eb34e25b9c0ff3c82556fe5967b4
+  CDEvents: 5f1ad4c85acee39795c42eb25da3b8e995624525
+  DZWebDAVClient: e4f5f8e9ae902721d73d8b111c50fd81ebae1e8b
+
+COCOAPODS: 0.33.1
